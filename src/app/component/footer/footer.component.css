@@ -1,0 +1,12 @@
+footer{
+  margin-top: 30px;
+  text-align: center;
+}
+a{
+  padding: 10px;
+  background-color: CadetBlue;
+  text-decoration: none;
+  color: white;
+  border-radius: 0.3rem;
+}
+p{margin: 1rem;}
